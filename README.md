@@ -1,5 +1,9 @@
 # A basic crawler for m.9292.nl to get all leaving vehicles from a bus/trainstop
 
+## Dependencies
+
+*	BeautifulSoup
+*	Mechanize
 
 ## Usage
 
